@@ -1,1 +1,9 @@
-# avito-backend-trainee-task-autumn
+# Avito Backend Trainee Task – Autumn 2025  
+**PR Reviewer Assignment Service**
+
+### Запуск
+docker-compose up -d --build
+
+Миграции расположены в ./migrations. Описана конфигурация линтера.
+
+Извиняюсь за "толстые интерфейсы", уже не хватало времени попилить на домены нормально.. Также не обработаны толком ошибки, но wrap есть, в логах компоуза можно посмотреть 
