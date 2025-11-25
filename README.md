@@ -1,1 +1,1 @@
-# avito-backend-trainee-task-spring
+# avito-backend-trainee-task-autumn
