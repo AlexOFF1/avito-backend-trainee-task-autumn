@@ -1,0 +1,11 @@
+linters:
+  enable:
+    - gofmt
+    - golint
+    - vet
+    - misspell
+    - ineffassign
+    - unused
+
+issues:
+  exclude-use-default: false
